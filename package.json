@@ -1,0 +1,17 @@
+{
+  "name": "resume-master",
+  "version": "1.0.0",
+  "description": "Resume website for my projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.5",
+    "nodemailer-sendgrid-transport": "^0.2.0"
+  }
+}
